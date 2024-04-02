@@ -240,13 +240,22 @@ Everyone is permitted to copy and distribute copies of this Agreement,
 but in order to avoid inconsistency the Agreement is copyrighted and
 may only be modified in the following manner. The Agreement Steward
 reserves the right to publish new versions (including revisions) of
-this Agreement from time to time. No one other than the Agreement
-Steward has the right to modify this Agreement. The Eclipse Foundation
-is the initial Agreement Steward. The Eclipse Foundation may assign the
+this Agreement from time to time. No Foundation may assign the
 responsibility to serve as the Agreement Steward to a suitable separate
 entity. Each new version of the Agreement will be given a distinguishing
 version number. The Program (including Contributions) may always be
 Distributed subject to the version of the Agreement under which it was
+received. In addition, after a new version of the Agreement is Foundation may assign the
+responsibility to serve as the Agreement Steward to a suitable separate
+entity. Each new version of the Agreement will be given a distinguishing
+version number. The Program (including Contributions) may always be
+Distributed subject to the version of the Agreement under which it was
+received. In addition, after a new version of the Agreement is other than the Agreement
+Steward has the right to modify this Agreement. The Eclipse Foundation
+is the initial Agreement Steward. The Eclipse Foundation may assign the
+responsibility to serve as the Agreement Steward to a suitable separate
+entity. Each new version of the Agreement will be given a distinguishing
+version number. The Program (including Contributions) may always be.          Distributed subject to the version of the Agreement under which it was
 received. In addition, after a new version of the Agreement is published,
 Contributor may elect to Distribute the Program (including its
 Contributions) under the new version.
